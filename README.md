@@ -2,4 +2,4 @@
 
 Curso Linkedin 
 
-[Visita mi pagina] (http.eurekagrafico.com)
+[Visita mi pagina](http.eurekagrafico.com)
